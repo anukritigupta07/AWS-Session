@@ -1,7 +1,7 @@
 {
-  "name": "stripe-integration",
+  "name": "y",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Testing the project locally",
   "main": "index.js",
   "scripts": {
     "devStart": "nodemon server.js",
@@ -16,5 +16,13 @@
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "stripe": "^9.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anukritigupta07/AWS-Session.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anukritigupta07/AWS-Session/issues"
+  },
+  "homepage": "https://github.com/anukritigupta07/AWS-Session#readme"
 }
